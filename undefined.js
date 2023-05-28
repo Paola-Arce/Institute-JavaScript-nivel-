@@ -13,4 +13,4 @@ console.log(typeof declaraVar) /* undefined*/
 console.log(typeof rioGrande);
 console.log(rioGrande); /*no dara un error rioGrande in no defined */ 
 
-//? SYMBOL =  es un tipo de dato primitivo (agregado 2015) no tiene ningún valor literal y solo se puede crear mediante una función de contructor especial. Los simbolos son una forma de identificador que garantiza que sea único  
+//? SYMBOL =  es un tipo de dato primitivo (agregado 2015) no tiene ningún valor literal y solo se puede crear mediante una función de contructor especial. Los simbolos son una forma de identificador que garantiza que sea único.
